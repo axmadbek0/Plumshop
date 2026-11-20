@@ -138,3 +138,4 @@ Loyiha to'liq modulli qilingan bo'lib, haqiqiy backend bilan ulash juda oson:
 4. **Analytics va Metrika**:
    - Google Analytics 4 (GA4) va Yandex Metrika e-commerce hodisalari (`add_to_cart`, `purchase`, `view_item`).
 # Plumshop
+# Plumshop
